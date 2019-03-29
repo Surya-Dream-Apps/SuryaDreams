@@ -1,11 +1,9 @@
-<photographyapps>  
+<suryaapps>  
    
-    <photography>
-<apptitle>check</apptitle>
-<applink></applink>
-<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/photoframesicon.png</appicon>
-</photography>
+    <surya>
+<suryatitle>check</suryatitle>
+<suryalink></suryalink>
+<suryaicon></suryaicon>
+</surya>
    
-
-
-</photographyapps>
+</suryaapps>
