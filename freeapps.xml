@@ -1,9 +1,18 @@
 <suryaapps>  
   
 <surya>
-<suryatitle>ugadi 2019 photo frame</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.ugadiphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ugadi.png</suryaicon>
+<suryatitle>Buddha photo frames 2019</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
 </surya>
-  
+  <surya>
+<suryatitle>jay bhim photo frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/jaybhim.PNG</suryaicon>
+</surya>
+   <surya>
+<suryatitle>swami vivekananda photo frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.swamivivekanandaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/vivekananda.png</suryaicon>
+</surya>
 </suryaapps>
