@@ -1,17 +1,10 @@
 <suryaapps>  
-  
+   <surya>
+<suryatitle>Bakrid mubarak 2019 photo frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.bakridmubarakphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/bakrid.PNG</suryaicon>
+</surya>
 <surya>
-<suryatitle>Buddha photo frames 2019</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
-</surya>
-  
-  <surya>
-<suryatitle>Ramadan mubarak photo frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.ramadanmubarakphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ramadan.PNG</suryaicon>
-</surya>
-  <surya>
 <suryatitle>Eid Mubarak 2019 photo frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.eidmubarakphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/eidmubarak.PNG</suryaicon>
@@ -21,7 +14,26 @@
 <suryalink>market://details?id=com.suryadreamapps.eidulfitrphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/eidalfitr.PNG</suryaicon>
 </surya>
-  
+<surya>
+<suryatitle>Ramadan mubarak photo frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.ramadanmubarakphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ramadan.PNG</suryaicon>
+</surya>
+   <surya>
+<suryatitle>Independence day photo frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.independencedayphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/independenceday.PNG</suryaicon>
+</surya>
+   <surya>
+<suryatitle>Rakhi photo frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.rakhiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/rakhi.png</suryaicon>
+</surya>
+  <surya>
+<suryatitle>Buddha photo frames 2019</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
+</surya>
   <surya>
 <suryatitle>jay bhim photo frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
