@@ -1,8 +1,18 @@
-<suryaapps>  
+<suryaapps> 
+<surya>
+<suryatitle>Valentines Day Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.valentinesdayphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/valentine.PNG</suryaicon>
+</surya>
 <surya>
 <suryatitle>Maha Shivaratri Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.mahashivaratriphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/shivaratri.png</suryaicon>
+</surya>
+<surya>
+<suryatitle>Holi Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.holiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/holi.PNG</suryaicon>
 </surya>
 <surya>
 <suryatitle>Garden Photo Frames</suryatitle>
