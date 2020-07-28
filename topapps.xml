@@ -1,14 +1,13 @@
 <suryaapps> 
- 
+<surya>
+<suryatitle>Bakrid Mubarak Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.bakridmubarakphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/bakrid.PNG</suryaicon>
+</surya>
 <surya>
 <suryatitle>Jay Bhim Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
-</surya>
- <surya>
- <suryatitle>Bakrid Mubarak 2020 Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.bakridmubarakphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/bakrid.PNG</suryaicon>
 </surya>
 <surya>
 <suryatitle>Buddha Purnima Photo Frames</suryatitle>
@@ -35,5 +34,4 @@
 <suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
 </surya>
- 
 </suryaapps>
