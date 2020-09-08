@@ -5,6 +5,11 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
 </surya>
 <surya>
+<suryatitle>Kali Mata Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
+</surya>
+<surya>
 <suryatitle>Buddha Purnima Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
@@ -23,10 +28,5 @@
 <suryatitle>Goddess Lakshmi Devi Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.goddesslakshmideviphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lakshmi.PNG</suryaicon>
-</surya>
-<surya>
-<suryatitle>Kali Mata Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
 </surya>
 </suryaapps>
