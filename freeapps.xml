@@ -10,11 +10,6 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
 </surya>
 <surya>
-<suryatitle>Buddha Purnima Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
-</surya>
-<surya>
 <suryatitle>Durga Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.durgamaaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/durgamaa.PNG</suryaicon>
@@ -38,5 +33,10 @@
 <suryatitle>Kali Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Buddha Purnima Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
 </surya>
 </suryaapps>
