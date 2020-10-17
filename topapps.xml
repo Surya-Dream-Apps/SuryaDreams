@@ -1,10 +1,5 @@
 <suryaapps> 
 <surya>
-<suryatitle>Jay Bhim Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
-</surya>
-<surya>
 <suryatitle>Durga Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.durgamaaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/durgamaa.PNG</suryaicon>
@@ -23,6 +18,11 @@
 <suryatitle>Goddess Lakshmi Devi Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.goddesslakshmideviphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lakshmi.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Jay Bhim Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
 </surya>
 <surya>
 <suryatitle>Kali Mata Photo Frames</suryatitle>
