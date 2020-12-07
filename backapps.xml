@@ -1,8 +1,13 @@
 <suryaapps>
 <surya>
-<suryatitle>Waterfall Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/waterfall.png</suryaicon>
+<suryatitle>Christmas 2020 Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.christmasphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/xmas.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>New Year 2021 Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.newyearphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/happynewyear.PNG</suryaicon>
 </surya>
 <surya>
 <suryatitle>Jay Bhim Photo Frames</suryatitle>
@@ -14,9 +19,4 @@
 <suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
 </surya>
-<surya>
-<suryatitle>Kali Mata Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
-</surya> 
 </suryaapps>
