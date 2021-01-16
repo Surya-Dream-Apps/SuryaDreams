@@ -1,24 +1,23 @@
 <suryaapps> 
 <surya>
-<suryatitle>Pongal Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.pongalphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.png</suryaicon>
-</surya> 
+<suryatitle>Guru Gobind SIngh Photo Frame</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.gurugobindsinghphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/gobind.png</suryaicon>
+</surya>  
 <surya>
 <suryatitle>Republic Day Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.republicdayphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/republicday.png</suryaicon>
 </surya>  
 <surya>
-<suryatitle>Makar Sankranti Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/sankranti.png</suryaicon>
-</surya>
-  
-<surya>
 <suryatitle>Bhim Ambedkar Dual Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.bhimambedkardualphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/bhimdual.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Garden Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
 </surya>  
 <surya>
 <suryatitle>Beach Photo Frames</suryatitle>
@@ -49,10 +48,5 @@
 <suryatitle>Buddha Purnima Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
-</surya>
-<surya>
-<suryatitle>Garden Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
 </surya>
 </suryaapps>
