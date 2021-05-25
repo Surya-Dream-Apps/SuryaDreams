@@ -1,5 +1,10 @@
 <suryaapps>
 <surya>
+<suryatitle>Buddha Purnima Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.png</suryaicon>
+</surya>  
+<surya>
 <suryatitle>Jay Bhim Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
@@ -13,10 +18,5 @@
 <suryatitle>Beach Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.beachphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/beach.PNG</suryaicon>
-</surya> 
-<surya>
-<suryatitle>Buddha Purnima Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.PNG</suryaicon>
 </surya> 
 </suryaapps>
