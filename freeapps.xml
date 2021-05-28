@@ -1,14 +1,4 @@
-<suryaapps>  
-<surya>
-<suryatitle>Buddha Purnima Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.png</suryaicon>
-</surya>  
-<surya>
-<suryatitle>Buddha Dual Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.buddhadualphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddhadual.png</suryaicon>
-</surya>   
+<suryaapps>     
 <surya>
 <suryatitle>Garden Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
@@ -28,5 +18,15 @@
 <suryatitle>Beach Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.beachphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/beach.PNG</suryaicon>
+</surya> 
+ <surya>
+<suryatitle>Buddha Purnima Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.png</suryaicon>
+</surya>  
+<surya>
+<suryatitle>Buddha Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.buddhadualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddhadual.png</suryaicon>
 </surya> 
 </suryaapps>
