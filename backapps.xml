@@ -1,5 +1,15 @@
 <suryaapps>
 <surya>
+<suryatitle>Independence Day Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.independencedayphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/independenceday.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Independence Day Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.independencedaydualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/indedual.PNG</suryaicon>
+</surya>  
+<surya>
 <suryatitle>Flower Dual Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.flowerdualphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/flowerdual.PNG</suryaicon>
@@ -9,14 +19,4 @@
 <suryalink>market://details?id=com.suryadreamapps.jaybhimphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ambedkar.png</suryaicon>
 </surya>
-<surya>
-<suryatitle>Garden Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
-</surya>  
-<surya>
-<suryatitle>Beach Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.beachphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/beach.PNG</suryaicon>
-</surya> 
 </suryaapps>
