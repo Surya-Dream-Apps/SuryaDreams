@@ -1,5 +1,5 @@
 <suryaapps> 
- <surya>
+<surya>
 <suryatitle>Gandhi Jayanti Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.gandhiphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/gandhi.PNG</suryaicon>
@@ -8,6 +8,16 @@
 <suryatitle>Durga Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.durgamaaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/durgamaa.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Navratri Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.navratriphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/navaratri.png</suryaicon>
+</surya>
+<surya>
+<suryatitle>Navratri Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.navratridualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/navratridual.PNG</suryaicon>
 </surya> 
 <surya>
 <suryatitle>Garden Photo Frames</suryatitle>
