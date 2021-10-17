@@ -5,6 +5,11 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lakshmi.PNG</suryaicon>
 </surya>
 <surya>
+<suryatitle>Milad Un Nabi Photo Frame</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.miladunnabiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/milad.png</suryaicon>
+</surya>  
+<surya>
 <suryatitle>Kali Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
@@ -13,10 +18,5 @@
 <suryatitle>Garden Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
-</surya>
-<surya>
-<suryatitle>Waterfall Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/waterfall.png</suryaicon>
 </surya>
 </suryaapps>
