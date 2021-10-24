@@ -30,6 +30,26 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/gurunanak.png</suryaicon>
 </surya> 
 <surya>
+<suryatitle>Christmas Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.christmasphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/christmas.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Christmas Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.christmasdualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/christmasdual.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>New Year Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.newyearphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/newyear.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>New Year Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.newyeardualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/newyeardual.PNG</suryaicon>
+</surya>  
+<surya>
 <suryatitle>Garden Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
