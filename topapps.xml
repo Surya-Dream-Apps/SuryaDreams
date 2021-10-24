@@ -10,9 +10,44 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/diwali.png</suryaicon>
 </surya> 
 <surya>
+<suryatitle>Diwali Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.diwalidualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/diwalidual.png</suryaicon>
+</surya> 
+<surya>
 <suryatitle>Kali Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Chhath Puja Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.chhathpujaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/chhathpuja.png</suryaicon>
+</surya>  
+<surya>
+<suryatitle>Guru Nanak Jayanti Photo Frame</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.gurunanakjayantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/gurunanak.png</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Christmas Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.christmasphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/christmas.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Christmas Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.christmasdualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/christmasdual.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>New Year Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.newyearphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/newyear.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>New Year Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.newyeardualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/newyeardual.PNG</suryaicon>
 </surya> 
 <surya>
 <suryatitle>Garden Photo Frames</suryatitle>
@@ -49,12 +84,12 @@
 <suryalink>market://details?id=com.suryadreamapps.buddhadualphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddhadual.png</suryaicon>
 </surya>  
- <surya>
+<surya>
 <suryatitle>Durga Mata Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.durgamaaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/durgamaa.PNG</suryaicon>
 </surya>
- <surya>
+<surya>
 <suryatitle>Lakshmi Devi Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.goddesslakshmideviphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lakshmi.PNG</suryaicon>
