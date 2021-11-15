@@ -1,25 +1,5 @@
 <suryaapps> 
 <surya>
-<suryatitle>Diwali Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.diwaliphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/diwali.png</suryaicon>
-</surya> 
-<surya>
-<suryatitle>Diwali Dual Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.diwalidualphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/diwalidual.png</suryaicon>
-</surya> 
-<surya>
-<suryatitle>Kali Mata Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.kalimataphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/kalimata.PNG</suryaicon>
-</surya> 
-<surya>
-<suryatitle>Chhath Puja Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.chhathpujaphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/chhathpuja.png</suryaicon>
-</surya>  
-<surya>
 <suryatitle>Guru Nanak Jayanti Photo Frame</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.gurunanakjayantiphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/gurunanak.png</suryaicon>
@@ -89,7 +69,7 @@
 <suryalink>market://details?id=com.suryadreamapps.buddhadualphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddhadual.png</suryaicon>
 </surya> 
- <surya>
+<surya>
 <suryatitle>Lakshmi Devi Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.goddesslakshmideviphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lakshmi.PNG</suryaicon>
