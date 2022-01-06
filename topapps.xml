@@ -3,6 +3,11 @@
 <suryatitle>Garden Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.gardenphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Waterfall Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/waterfall.png</suryaicon>
 </surya>  
 <surya>
 <suryatitle>Beach Photo Frames</suryatitle>
@@ -10,29 +15,54 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/beach.PNG</suryaicon>
 </surya> 
 <surya>
-<suryatitle>Christmas Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.christmasphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/christmas.PNG</suryaicon>
+<suryatitle>Gobind Singh Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.gurugobindsinghphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/gobind.png</suryaicon>
 </surya>
 <surya>
-<suryatitle>Christmas Dual Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.christmasdualphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/christmasdual.PNG</suryaicon>
+<suryatitle>Vivekananda Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.swamivivekanandaphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/vivekananda.png</suryaicon>
 </surya> 
 <surya>
-<suryatitle>New Year Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.newyearphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/newyear.PNG</suryaicon>
+<suryatitle>Vivekananda Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.vivekanandadualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/vivekadual.PNG</suryaicon>
 </surya>
 <surya>
-<suryatitle>New Year Dual Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.newyeardualphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/newyeardual.PNG</suryaicon>
+<suryatitle>Sankranti Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/sankranti.png</suryaicon>
 </surya> 
 <surya>
-<suryatitle>Waterfall Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/waterfall.png</suryaicon>
+<suryatitle>Pongal Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.png</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Republic Day Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.republicdayphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/republicday.png</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Republic Day Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.republicdaydualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/republicdual.png</suryaicon>
+</surya>
+<surya>
+<suryatitle>Valentines Day Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.valentinesdayphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/valentine.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Love Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.lovephotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/love.png</suryaicon>
+</surya>
+<surya>
+<suryatitle>Love Dual Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.lovedualphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lovedual.PNG</suryaicon>
 </surya>
 <surya>
 <suryatitle>Flower Dual Photo Frames</suryatitle>
