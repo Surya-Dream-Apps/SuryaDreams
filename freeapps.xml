@@ -5,6 +5,16 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
 </surya>
 <surya>
+<suryatitle>Sankranti Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/sankranti.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Pongal Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.PNG</suryaicon>
+</surya> 
+<surya>
 <suryatitle>Waterfall Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/waterfall.png</suryaicon>
@@ -24,16 +34,6 @@
 <suryalink>market://details?id=com.suryadreamapps.vivekanandadualphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/vivekadual.PNG</suryaicon>
 </surya>
-<surya>
-<suryatitle>Sankranti Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/sankranti.PNG</suryaicon>
-</surya> 
-<surya>
-<suryatitle>Pongal Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.PNG</suryaicon>
-</surya> 
 <surya>
 <suryatitle>Republic Day Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.republicdayphotoframes</suryalink>
@@ -94,7 +94,7 @@
 <suryalink>market://details?id=com.suryadreamapps.beachphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/beach.PNG</suryaicon>
 </surya> 
- <surya>
+<surya>
 <suryatitle>Buddha Purnima Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.buddhaphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/buddha.png</suryaicon>
