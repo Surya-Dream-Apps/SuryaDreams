@@ -13,7 +13,12 @@
 <suryatitle>Pongal Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.PNG</suryaicon>
-</surya> 
+</surya>
+<surya>
+<suryatitle>Lohri Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.lohriphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lohri.png</suryaicon>
+</surya>  
 <surya>
 <suryatitle>Waterfall Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
