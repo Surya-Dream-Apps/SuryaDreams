@@ -5,20 +5,10 @@
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/garden.PNG</suryaicon>
 </surya>
 <surya>
-<suryatitle>Sankranti Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/sankranti.PNG</suryaicon>
-</surya> 
-<surya>
-<suryatitle>Pongal Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.PNG</suryaicon>
-</surya>
-<surya>
-<suryatitle>Lohri Photo Frames</suryatitle>
-<suryalink>market://details?id=com.suryadreamapps.lohriphotoframes</suryalink>
-<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lohri.png</suryaicon>
-</surya>   
+<suryatitle>Ugadi Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.ugadiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/ugadi.png</suryaicon>
+</surya>  
 <surya>
 <suryatitle>Waterfall Photo Frames</suryatitle>
 <suryalink>market://details?id=com.suryadreamapps.waterfallphotoframes</suryalink>
@@ -109,4 +99,19 @@
 <suryalink>market://details?id=com.suryadreamapps.goddesslakshmideviphotoframes</suryalink>
 <suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lakshmi.PNG</suryaicon>
 </surya>
+<surya>
+<suryatitle>Sankranti Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/sankranti.PNG</suryaicon>
+</surya> 
+<surya>
+<suryatitle>Pongal Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.makarsankrantiphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/pongal.PNG</suryaicon>
+</surya>
+<surya>
+<suryatitle>Lohri Photo Frames</suryatitle>
+<suryalink>market://details?id=com.suryadreamapps.lohriphotoframes</suryalink>
+<suryaicon>https://raw.githubusercontent.com/Surya-Dream-Apps/SuryaDreams/master/icons/lohri.png</suryaicon>
+</surya>   
 </suryaapps>
